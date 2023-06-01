@@ -3,7 +3,7 @@ export default {
   SITE_TITLE: "PAULFLIX",
 
   //Put your discord link here or null to disable
-  SITE_DISCORD: "https://discord.com",
+  SITE_DISCORD: "https://twitter.com/paulmichaelzd",
   
   //True or false to show or hide site credit in footer (You should leave enabled 😉)
   SITE_CREDITS: false,
